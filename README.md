@@ -24,6 +24,9 @@ https://www.linkedin.com/in/fadil-mohammed-347a0a231/
 
 # Description
 
+FBA-exam is a user-friendly and secure platform that would make it easy for teachers to create and administer exams, and for students to take them from anywhere, at any time. It provides instant feedback on exam results, saving teachers time and allowing students to track their progress.
+
+
 
 
 
