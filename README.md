@@ -32,4 +32,7 @@ https://www.linkedin.com/in/fadil-mohammed-347a0a231/
 
 # Diagram Samples
 
+<img width="957" alt="image" src="https://user-images.githubusercontent.com/88312545/226443142-77e312cf-f2eb-48f1-b436-cfd7a0b08f7d.png">
+
+
 
