@@ -2,20 +2,20 @@
 
 # Contributors
 
-Abtsega Tesfaye 
+## Abtsega Tesfaye 
 
 https://github.com/Abtsega123
 
 https://www.linkedin.com/in/abtsega-tesfaye-2564361ba/
 
-Bealu Girma
+## Bealu Girma
 
 https://github.com/bealu14
 
 https://linkedin.com/](https://www.linkedin.com/in/bealu14/
 
 
-Fadil Mohammed
+## Fadil Mohammed
 
 https://github.com/Fadil1212
 
