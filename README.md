@@ -2,24 +2,25 @@
 
 # Contributors
 
+## Fadil Mohammed
 
-## Abtsega Tesfaye 
+https://github.com/Fadil1212
 
-https://github.com/Abtsega123
-
-  https://www.linkedin.com/in/abtsega-tesfaye-2564361ba/
+ https://www.linkedin.com/in/fadil-mohammed-347a0a231/
 
    ## Bealu Girma
    
    https://github.com/bealu14
 
-  https://linkedin.com/](https://www.linkedin.com/in/bealu14/
+https://linkedin.com/](https://www.linkedin.com/in/bealu14/
   
-  ## Fadil Mohammed
+  
+ ## Abtsega Tesfaye 
 
-https://github.com/Fadil1212
+https://github.com/Abtsega123
 
- https://www.linkedin.com/in/fadil-mohammed-347a0a231/
+  https://www.linkedin.com/in/abtsega-tesfaye-2564361ba/
+
 
 
 # Description
