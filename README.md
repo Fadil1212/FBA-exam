@@ -2,24 +2,25 @@
 
 # Contributors
 
-## Abtsega Tesfaye 
+                                ## Abtsega Tesfaye 
+<img width="30" alt="image" src="https://user-images.githubusercontent.com/88312545/226685062-a17b9ba8-0af0-4979-9943-19e4210911b8.png">
 
-https://github.com/Abtsega123
+                                             https://github.com/Abtsega123
 
-https://www.linkedin.com/in/abtsega-tesfaye-2564361ba/
+                             https://www.linkedin.com/in/abtsega-tesfaye-2564361ba/
 
-## Bealu Girma
+                                   ## Bealu Girma
 
-https://github.com/bealu14
+                              https://github.com/bealu14
 
-https://linkedin.com/](https://www.linkedin.com/in/bealu14/
+                                      https://linkedin.com/](https://www.linkedin.com/in/bealu14/
 
 
-## Fadil Mohammed
+                                   ## Fadil Mohammed
 
-https://github.com/Fadil1212
+                                                https://github.com/Fadil1212
 
-https://www.linkedin.com/in/fadil-mohammed-347a0a231/
+                                         https://www.linkedin.com/in/fadil-mohammed-347a0a231/
 
 
 # Description
